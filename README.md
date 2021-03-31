@@ -1,2 +1,3 @@
 # Impal-Alda-Lara
-projecto para dedicado para o meu instituto. um site para fazer matrículas,confirmação, consultar pauta e boletins de cada aluno velando pela privacidade de todos
+Projecto dedicado para o Instituto Médio Politécnico Alda Lara, afim de que os alunos possam fazer inscriçao, matricula e consultar pautas, boletins 
+sem precisar se deslocar velando pela privacidade deles.
